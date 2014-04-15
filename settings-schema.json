@@ -1,0 +1,18 @@
+{
+ "head" : {
+    "type" : "header",
+    "description" : "First Section"
+ },
+ "keybinding-test" : {
+    "type" : "keybinding",
+    "description" : "Set the keybinding here to activate an action: ",
+    "default" : "<Control>F8"
+ },
+ "folder" : {
+    "type" : "entry",
+    "default" : "",
+    "description" : "Folder containing wallpapers to display",
+    "indent": false,
+    "tooltip" : "Set to folder containing wallpapers to display"
+ }
+}
